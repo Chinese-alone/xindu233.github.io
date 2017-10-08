@@ -7,5 +7,4 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Travel]
 author: Xindu # Add name author (optional)
 ---
-    今天我和狗舍友乘坐916路公交车进了城。(先挖个坑，内容以后再写好了
-#![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+今天我和狗舍友乘坐916路公交车进了城。(先挖个坑，内容以后再写好了

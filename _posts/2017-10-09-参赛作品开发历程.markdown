@@ -1,0 +1,15 @@
+---
+layout: post
+title:  我的星火杯参赛作品开发历程
+date:   2017-10-9 12:55:20 +0800
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: post-2.jpg # Add image post (optional)
+tags: [Blog, Projects]
+author: # Add name author (optional)
+---
+9月下旬 买来了Arduino uno，在Mac上搭建好了开发环境并测试了点亮led。
+
+10月5日 确定了开发窗帘的想法，实验了一下用Arduino驱动电机。
+
+10月9日 狗舍友列出了一个基本的提纲(?)，开始购买元件。(ps:图中靠下的扩展内容全部不存在的23333
+![提纲]({{site.baseurl}}/assets/img/post-2-tigang.jpg)

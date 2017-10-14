@@ -17,7 +17,7 @@ author:Xindu # Add name author (optional)
 10月13日 购买的灰度检测元件，扩展版和时钟模块到货。
 
 10月14日 对昨天各个元件的测试和编写代码工作完成(其实完成度挺感人的。
-        狗舍友做出了一个比较完整的电子版提纲。
+        舍友做出了一个比较完整的电子版提纲。
 ![提纲2]({{site.baseurl}}/assets/img/post-2-tigang2.jpg)
  (14日的灰度检测&电机驱动代码：
 {% highlight ruby %}
@@ -54,8 +54,8 @@ int Scan(){
     return val;
 }
 void Kai(){
-    digitalWrite(input1,HIGH); //给高电平  
-    digitalWrite(input2,LOW);  //给低电平  
+    digitalWrite(input1,HIGH);
+    digitalWrite(input2,LOW); 
     delay(10000);
     digitalWrite(input1,LOW);
     digitalWrite(input2,LOW);
@@ -68,3 +68,5 @@ void Guan(){
     digitalWrite(input2,LOW); 
 }
 {% endhighlight %}
+(PS:全部有“枫木白”水印的图均为舍友版权所有)
+(PS2:博主要自己手动给图加上舍友的水印，这是最气的)
